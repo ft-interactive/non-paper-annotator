@@ -11,10 +11,10 @@ export default () => ({ // eslint-disable-line
   //       new Date('2016-05-17T17:11:22Z')
   publishedDate: new Date(),
 
-  headline: 'A non-paper, annotated',
+  headline: 'Brussels’ opening Brexit bid - annotated',
 
   // summary === standfirst (Summary is what the content API calls it)
-  summary: 'The full text of the European Council\'s guidance for handling Britain\'s withdrawal',
+  summary: 'How to read between the lines of the European Commission’s negotiating paper',
 
   topic: {
     name: 'Brexit',
