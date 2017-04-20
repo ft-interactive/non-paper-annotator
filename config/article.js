@@ -5,7 +5,7 @@ export default () => ({ // eslint-disable-line
 
   // canonical URL of the published page
   // https://ig.ft.com/sites/federal-reserve-march-meeting-2017 get filled in by the ./configure script
-  url: 'https://ig.ft.com/non-paper-annotator',
+  url: 'https://ig.ft.com/non-paper-annotated/',
 
   // To set an exact publish date do this:
   //       new Date('2016-05-17T17:11:22Z')
@@ -27,7 +27,7 @@ export default () => ({ // eslint-disable-line
   },
 
   mainImage: {
-    title: '',
+    title: 'https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.prod.s3.amazonaws.com%2F71231d3a-13c7-11e7-b0c1-37e417ee6c76?source=ig&fit=scale-down&width=2048&height=1152',
     description: '',
     url: '',
     width: 2048, // ensure correct width
@@ -45,7 +45,8 @@ export default () => ({ // eslint-disable-line
   title: 'The EU Brexit guidelines decoded',
 
   // meta data
-  description: 'The full text of the European Council\'s guidance for handling Britain\'s withdrawal',
+  description: 'The full text of the European Council\'s guidance for handling' +
+    'Britain\'s withdrawal',
 
   /*
   TODO: Select Twitter card type -
@@ -68,7 +69,8 @@ export default () => ({ // eslint-disable-line
   // TWITTER
   twitterImage: 'https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.prod.s3.amazonaws.com%2F71231d3a-13c7-11e7-b0c1-37e417ee6c76?source=ig&fit=scale-down&width=1200',
   twitterCreator: '@ft',
-  tweetText: 'The full text of the EU guidance on the Brexit negotiations, annotated by FT journalists #brexit',
+  tweetText: 'The full text of the EU guidance on the Brexit negotiations, ' +
+    'annotated by FT journalists #brexit',
   twitterHeadline: 'The full text of the EU guidance on the Brexit negotiations',
 
   // FACEBOOK
