@@ -1,11 +1,11 @@
 export default () => ({ // eslint-disable-line
 
   // link file UUID
-  id: '9b6dbf92-1533-11e7-80f4-13e067d5072c',
+  id: '71b3d192-25ea-11e7-8691-d5f7e0cd0a16',
 
   // canonical URL of the published page
   // https://ig.ft.com/sites/federal-reserve-march-meeting-2017 get filled in by the ./configure script
-  url: 'https://ig.ft.com/eu-brexit-guidelines-annotated',
+  url: 'https://ig.ft.com/non-paper-annotator',
 
   // To set an exact publish date do this:
   //       new Date('2016-05-17T17:11:22Z')
@@ -38,7 +38,7 @@ export default () => ({ // eslint-disable-line
   // if array of authors, url is optional
   byline: [
     { name: 'Alex Barker', url: 'https://www.ft.com/stream/authorsId/Q0ItMDAwMDY3Mg==-QXV0aG9ycw==' },
-    { name: 'Martin Stabe', url: 'https://www.ft.com/martin-stabe' },
+    { name: 'David Blood', url: 'https://www.ft.com/david-blood' },
   ],
 
   // Appears in the HTML <title>
