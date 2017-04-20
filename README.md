@@ -1,6 +1,6 @@
-# article-50-annotations
+# non-paper-annotator
 
-The the [EU’s Brexit guidelines decoded](https://ig.ft.com/eu-brexit-gudielines-annotated), March 31, 2017. 
+The [European Commission’s opening Brexit bid decoded](https://ig.ft.com/non-paper-annotated), April 20, 2017. 
 
 Based on previous versions at [trump-first-address](https://github.com/ft-interactive/trump-first-address), [federal-reserve-march-meeting-2017](https://github.com/ft-interactive/federal-reserve-march-meeting-2017) and [article-50-annotations](https://github.com/ft-interactive/article-50-annotations)
 
@@ -35,8 +35,8 @@ This software is published by the Financial Times under the [MIT licence](http:/
 Please note the MIT licence includes only the software, and does not cover any FT content made available using the software, which is copyright &copy; The Financial Times Limited, all rights reserved. For more information about re-publishing FT content, please contact our [syndication department](http://syndication.ft.com/).
 
 <!-- badge URLs -->
-[circle-url]: https://circleci.com/gh/ft-interactive/eu-response-annotations 
-[circle-image]: https://circleci.com/gh/ft-interactive/eu-response-annotations /tree/master.svg?style=shield
+[circle-url]: https://circleci.com/gh/ft-interactive/non-paper-annotated 
+[circle-image]: https://circleci.com/gh/ft-interactive/non-paper-annotated /tree/master.svg?style=shield
 
-[devdeps-url]: https://david-dm.org/ft-interactive/eu-response-annotations #info=devDependencies
-[devdeps-image]: https://img.shields.io/david/dev/eu-response-annotations /trump-first-address.svg?style=flat-square
+[devdeps-url]: https://david-dm.org/ft-interactive/non-paper-annotated #info=devDependencies
+[devdeps-image]: https://img.shields.io/david/dev/non-paper-annotated /trump-first-address.svg?style=flat-square
