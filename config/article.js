@@ -27,7 +27,7 @@ export default () => ({ // eslint-disable-line
   },
 
   mainImage: {
-    title: 'https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.prod.s3.amazonaws.com%2F71231d3a-13c7-11e7-b0c1-37e417ee6c76?source=ig&fit=scale-down&width=2048&height=1152',
+    title: 'https://www.ft.com/__origami/service/image/v2/images/raw/ftcms%3Ae38e8ce4-25ef-11e7-a34a-538b4cb30025?source=ig&width=2048&height=1152',
     description: '',
     url: '',
     width: 2048, // ensure correct width
@@ -62,19 +62,19 @@ export default () => ({ // eslint-disable-line
         optional social meta data?
   */
   // General social
-  socialImage: 'https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.prod.s3.amazonaws.com%2F71231d3a-13c7-11e7-b0c1-37e417ee6c76?source=ig&fit=scale-down&width=1200',
+  socialImage: 'https://www.ft.com/__origami/service/image/v2/images/raw/ftcms%3Ae38e8ce4-25ef-11e7-a34a-538b4cb30025?source=ig&width=1200&fit=scale-down',
   socialHeadline: 'The full text of the EU guidance on the Brexit negotiations',
   // socialSummary: 'The UK's Article 50 notification letter, annotated',
 
   // TWITTER
-  twitterImage: 'https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.prod.s3.amazonaws.com%2F71231d3a-13c7-11e7-b0c1-37e417ee6c76?source=ig&fit=scale-down&width=1200',
+  twitterImage: 'https://www.ft.com/__origami/service/image/v2/images/raw/ftcms%3Ae38e8ce4-25ef-11e7-a34a-538b4cb30025?source=ig&width=1200&fit=scale-down',
   twitterCreator: '@ft',
   tweetText: 'The full text of the EU guidance on the Brexit negotiations, ' +
     'annotated by FT journalists #brexit',
   twitterHeadline: 'The full text of the EU guidance on the Brexit negotiations',
 
   // FACEBOOK
-  facebookImage: 'https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.prod.s3.amazonaws.com%2F71231d3a-13c7-11e7-b0c1-37e417ee6c76?source=ig&fit=scale-down&width=1200',
+  facebookImage: 'https://www.ft.com/__origami/service/image/v2/images/raw/ftcms%3Ae38e8ce4-25ef-11e7-a34a-538b4cb30025?source=ig&width=1200&fit=scale-down',
   facebookHeadline: 'The full text of the EU guidance on the Brexit negotiations',
 
   tracking: {
